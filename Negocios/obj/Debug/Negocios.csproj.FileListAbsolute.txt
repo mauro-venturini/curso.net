@@ -1,0 +1,11 @@
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\bin\Debug\Negocios.dll
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\bin\Debug\Datos.dll
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\bin\Debug\Entidades.dll
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\bin\Debug\Datos.pdb
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\obj\Debug\Negocios.csproj.Up2Date
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\obj\Debug\Negocios.dll
+C:\Users\Maurito\source\repos\PaginaVentas\Negocios\obj\Debug\Negocios.pdb

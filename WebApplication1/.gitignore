@@ -1,0 +1,41 @@
+## Visual Studio ##
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results ##
+bin/
+obj/
+out/
+
+## Publicación ##
+publish/
+*.publish.xml
+
+## Configuración local y secretos ##
+appsettings.Development.json
+
+## Paquetes de NuGet descargados ##
+packages/
+*.nupkg
+
+## Logs y archivos temporales ##
+*.log
+*.tmp
+*.temp
+*.bak
+~$*
+
+## Sistema operativo ##
+.DS_Store
+Thumbs.db
+
+## Archivos de Rider / JetBrains (si usas) ##
+.idea/
+
+## Archivos de base de datos generados por VS ##
+*.vsidx
+*.VC.db
+*.VC.opendb
